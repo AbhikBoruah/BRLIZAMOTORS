@@ -13,6 +13,10 @@ body{
 .RC{
     width: 400px;
 }
+.insu{
+    margin-top:100px;
+    
+}
 .gearimg{
     padding-bottom: 70px;
 }
@@ -38,6 +42,10 @@ body{
 .bottom-container{
     padding-top: 58px;
     margin-top: 73px;
+}
+.numberplateimg{
+    padding-bottom: 126px;
+    margin-top: 201px;
 }
 @media (max-width: 1028px) {
     .RC{
